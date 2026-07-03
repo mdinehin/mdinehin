@@ -1,5 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
+<!--
 ## About Me
 
 I'm Michal, a full‑stack developer with experience delivering backend features, developing modern frontend components, and building reliable test automation for web platforms across healthcare, HR, and enterprise environments. 👔
@@ -18,7 +19,6 @@ In my free time, I like to deepen my technical skills through hands‑on learnin
 
 I'm currently learning how to build AI apps with Laravel, OpenAI, and Gemini. ✨
 
-<!--
 **mdinehin/mdinehin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
