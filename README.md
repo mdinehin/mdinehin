@@ -1,6 +1,8 @@
-# Welcome to My GitHub Profile 👋
+# Welcome 👋
 
 <!--
+# Welcome to My GitHub Profile 👋
+
 ## About Me
 
 I'm Michal, a full‑stack developer with experience delivering backend features, developing modern frontend components, and building reliable test automation for web platforms across healthcare, HR, and enterprise environments. 👔
