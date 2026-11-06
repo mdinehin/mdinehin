@@ -38,15 +38,6 @@ QA, DevOps and Tooling
 
 ---
 
-## 🚀 Featured Portfolio Projects
-- [Laravel AI Gateway API](https://github.com/mdinehin/laravel-ai-gateway-api) - Enterprise-style service integrating LLM providers (OpenAI and Gemini) into a unified Laravel backend architecture.
-- [Laravel Event Management API](https://github.com/mdinehin/laravel-event-management-api) - Streamlined secure event management and attendee tracking, featuring full CRUD operations, fine-grained access control, and automated queue reminders.
-- [Laravel Movie Review App](https://github.com/mdinehin/laravel-movie-review-app) - Full-stack web application showcasing rating aggregations, full-text search, and responsive UI integration.
-- [Robot Framework Demo](https://github.com/mdinehin/robot-framework-demo) - Automated testing suite designed to streamline regression testing, expand platform test coverage, and accelerate release cycles.
-- [Java Battleship CLI](https://github.com/mdinehin/java-battleship-cli) - Standalone CLI application featuring automatic fleet placement and an executable fat JAR release.
-
----
-
 ## 💼 Experience Highlights
 
 - Backend and API Development: Designed scalable REST endpoints, optimized high-volume SQL query performance, and modernized legacy codebases.
