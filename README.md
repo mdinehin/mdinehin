@@ -40,17 +40,13 @@ QA, DevOps and Tooling
 
 ## 💼 Experience Highlights
 
-- Backend and API Development: Designed scalable REST endpoints, optimized high-volume SQL query performance, and modernized legacy codebases.
+- Backend and API Development: Designed scalable RESTful endpoints, optimized high-volume SQL query performance, and modernized legacy codebases.
 - Platforms and Architecture: Specialized in extending and customizing enterprise PHP platforms (Moodle, WordPress) and enterprise database ecosystems.
-- Quality Assurance and CI/CD: Built automated test suites using Katalon Studio and Robot Framework; integrated automated checks into GitHub, Azure DevOps, Jenkins, and Docker pipelines.
+- Quality Assurance and CI/CD: Built automated test suites using Katalon Studio and Robot Framework, integrated automated checks into Azure DevOps, Bitbucket, Jenkins, and Docker pipelines.
 
 ---
 
 ## 🎯 Current Focus and Upskilling
 
-- Building production-grade AI applications with Laravel, OpenAI API, and Google Gemini.
+- Building production-grade applications with Laravel, OpenAI, and Google Gemini.
 - Advanced architectural patterns and modern Java CLI tooling.
-
----
-
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/michal-dinehin/)
